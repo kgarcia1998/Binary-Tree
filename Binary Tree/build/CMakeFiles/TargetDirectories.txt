@@ -1,0 +1,8 @@
+/home/kevin/Desktop/Binary Tree/build/CMakeFiles/rebuild_cache.dir
+/home/kevin/Desktop/Binary Tree/build/CMakeFiles/edit_cache.dir
+/home/kevin/Desktop/Binary Tree/build/CMakeFiles/BST_crud.dir
+/home/kevin/Desktop/Binary Tree/build/CMakeFiles/trees.dir
+/home/kevin/Desktop/Binary Tree/build/CMakeFiles/helper.dir
+/home/kevin/Desktop/Binary Tree/build/CMakeFiles/RBT_crud.dir
+/home/kevin/Desktop/Binary Tree/build/CMakeFiles/OSRBT_crud.dir
+/home/kevin/Desktop/Binary Tree/build/CMakeFiles/test.dir

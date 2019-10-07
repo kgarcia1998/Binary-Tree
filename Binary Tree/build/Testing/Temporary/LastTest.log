@@ -1,0 +1,62 @@
+Start testing: Oct 07 11:26 PDT
+----------------------------------------------------------
+1/3 Testing: BST_crud
+1/3 Test: BST_crud
+Command: "/home/kevin/Desktop/Binary Tree/build/outest/BST_crud"
+Directory: /home/kevin/Desktop/Binary Tree/build/outest
+"BST_crud" start time: Oct 07 11:26 PDT
+Output:
+----------------------------------------------------------
+Running 1 test case...
+unknown location(0): fatal error: in "bst_crud": memory access violation at address: 0x00000000: no mapping at fault address
+/home/kevin/Desktop/Binary Tree/test/BST_crud.cpp(35): last checkpoint
+
+*** 1 failure is detected in the test module "BinarySearchTreeTest"
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"BST_crud" end time: Oct 07 11:26 PDT
+"BST_crud" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: OSRBT_crud
+2/3 Test: OSRBT_crud
+Command: "/home/kevin/Desktop/Binary Tree/build/outest/OSRBT_crud"
+Directory: /home/kevin/Desktop/Binary Tree/build/outest
+"OSRBT_crud" start time: Oct 07 11:26 PDT
+Output:
+----------------------------------------------------------
+Running 1 test case...
+/home/kevin/Desktop/Binary Tree/test/OSRBT_crud.cpp(17): fatal error: in "osrbt_crud": critical check osrbt.root->size == 8 has failed
+
+*** 1 failure is detected in the test module "BinarySearchTreeTest"
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"OSRBT_crud" end time: Oct 07 11:26 PDT
+"OSRBT_crud" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: RBT_crud
+3/3 Test: RBT_crud
+Command: "/home/kevin/Desktop/Binary Tree/build/outest/RBT_crud"
+Directory: /home/kevin/Desktop/Binary Tree/build/outest
+"RBT_crud" start time: Oct 07 11:26 PDT
+Output:
+----------------------------------------------------------
+Running 1 test case...
+unknown location(0): fatal error: in "rbt_crud": memory access violation at address: 0x00000000: no mapping at fault address
+/home/kevin/Desktop/Binary Tree/test/RBT_crud.cpp(19): last checkpoint
+
+*** 1 failure is detected in the test module "RedBlackTreeTest"
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"RBT_crud" end time: Oct 07 11:26 PDT
+"RBT_crud" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 07 11:26 PDT

@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/color.h
+
+../include/node.hpp
+color.h
+-
+
+../include/osrbnode.hpp
+rbnode.hpp
+-
+
+../include/osrbtree.hpp
+rbtree.hpp
+-
+osrbnode.hpp
+-
+
+../include/rbnode.hpp
+node.hpp
+-
+color.h
+-
+
+../include/rbtree.hpp
+tree.hpp
+-
+rbnode.hpp
+-
+
+../include/tree.hpp
+node.hpp
+-
+string
+-
+
+/home/kevin/Desktop/Binary Tree/test/OSRBT_crud.cpp
+boost/test/unit_test.hpp
+-
+boost/mpl/list.hpp
+-
+iostream
+-
+osrbtree.hpp
+-
+

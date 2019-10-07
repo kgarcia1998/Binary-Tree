@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/BST_crud.dir/test/BST_crud.cpp.o  -o outest/BST_crud  -L"/home/kevin/Desktop/Binary Tree/build" -Wl,-rpath,"/home/kevin/Desktop/Binary Tree/build" -lboost_unit_test_framework -lhelper 
